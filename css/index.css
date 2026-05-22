@@ -8,6 +8,14 @@ body {
     overflow-y: auto;
 }
 
+.nav {
+    display: flex;
+    gap: 1rem;
+    list-style-type: none;
+    margin: 0.1rem;
+    padding: 0.4rem;
+    font-family: forum;
+}
 
 #header {
     background-color: #140202c7;
