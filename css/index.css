@@ -105,6 +105,7 @@ a:hover {
     background: linear-gradient(to left, #3b1352, #bd0707);
 }
 
+<<<<<<< HEAD
 .art {
     font-family: forum;
     font-size: 1.5rem;
@@ -127,6 +128,8 @@ a:hover {
     background: linear-gradient(to right, #81b881, #0728bd);
 }
 
+=======
+>>>>>>> 8210029cbabb7db6bab7210ee99156f71ac8b8ad
 /* Soundcloud colors */
 .header3 {
     font-family: forum;
@@ -139,6 +142,7 @@ a:hover {
     background: linear-gradient(to left, #3f2401, #bd6e07);
 }
 
+<<<<<<< HEAD
 /* Art section colors */
 .header4 {
     font-family: forum;
@@ -163,6 +167,8 @@ a:hover {
 }
 
 
+=======
+>>>>>>> 8210029cbabb7db6bab7210ee99156f71ac8b8ad
 .little {
     padding: 0.15rem 0.5rem;
     position: relative;
@@ -194,6 +200,12 @@ a:hover {
 
 #footer-text {
     font-family: Times New Roman, sans-serif;
+}
+
+.sounds {
+    padding: 0.25rem;
+    position: relative;
+    margin: 1rem;
 }
 
 .sounds {
