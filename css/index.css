@@ -121,3 +121,9 @@ a:hover {
 #footer-text {
     font-family: Times New Roman, sans-serif;
 }
+
+.sounds {
+    padding: 0.25rem;
+    position: relative;
+    margin: 1rem;
+}
