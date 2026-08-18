@@ -1,0 +1,27 @@
+.jim-nightshade-regular {
+  font-family: "Jim Nightshade", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.iframe {
+    position: fixed;
+    padding: 1rem;
+    top: 23px;
+    width: 20px;
+    height: 20px;
+}
+
+p {
+    margin: 0.3rem;
+}
+
+h1 {
+    padding: 0.5rem;
+}
+
+html, body {
+    margin: 0;
+    line-height: 1;
+    background-color: white;
+}

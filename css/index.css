@@ -94,6 +94,85 @@ a:hover {
     background: linear-gradient(to right, #183f01, #b3c000);
 }
 
+.music {
+    font-family: forum;
+    font-size: 1.5rem;
+    color: #ffffff;
+    padding: 1rem;
+    text-decoration-style: solid;
+    text-decoration-color: #ff0000;
+    text-decoration-thickness: 0.2rem;
+    background: linear-gradient(to left, #3b1352, #bd0707);
+}
+
+<<<<<<< HEAD
+.art {
+    font-family: forum;
+    font-size: 1.5rem;
+    color: #ffffff;
+    padding: 1rem;
+    text-decoration-style: solid;
+    text-decoration-color: #ff0000;
+    text-decoration-thickness: 0.2rem;
+    background: linear-gradient(to left, #9fdb6e, #834beb);
+}
+
+.projects {
+    font-family: forum;
+    font-size: 1.5rem;
+    color: #ffffff;
+    padding: 1rem;
+    text-decoration-style: solid;
+    text-decoration-color: #ff0000;
+    text-decoration-thickness: 0.2rem;
+    background: linear-gradient(to right, #81b881, #0728bd);
+}
+
+=======
+>>>>>>> 8210029cbabb7db6bab7210ee99156f71ac8b8ad
+/* Soundcloud colors */
+.header3 {
+    font-family: forum;
+    font-size: 1.5rem;
+    color: #ffffff;
+    padding: 0.7rem;
+    text-decoration-style: solid;
+    text-decoration-color: #ff0000;
+    text-decoration-thickness: 0.2rem;
+    background: linear-gradient(to left, #3f2401, #bd6e07);
+}
+
+<<<<<<< HEAD
+/* Art section colors */
+.header4 {
+    font-family: forum;
+    font-size: 1.5rem;
+    color: #ffffff;
+    padding: 0.7rem;
+    text-decoration-style: solid;
+    text-decoration-color: #ff0000;
+    text-decoration-thickness: 0.2rem;
+    background: linear-gradient(to left, #7c568d, #193bac);
+}
+
+.header5 {
+    font-family: forum;
+    font-size: 1.5rem;
+    color: #ffffff;
+    padding: 0.7rem;
+    text-decoration-style: solid;
+    text-decoration-color: #ff0000;
+    text-decoration-thickness: 0.2rem;
+    background: linear-gradient(to left, #3f2401, #bd6e07);
+}
+
+=======
+>>>>>>> 8210029cbabb7db6bab7210ee99156f71ac8b8ad
+.little {
+    padding: 0.15rem 0.5rem;
+    position: relative;
+}
+
 #progress {
     text-align: Left;
     padding: 0.7rem;
@@ -120,4 +199,10 @@ a:hover {
 
 #footer-text {
     font-family: Times New Roman, sans-serif;
+}
+
+.sounds {
+    padding: 0.25rem;
+    position: relative;
+    margin: 1rem;
 }
