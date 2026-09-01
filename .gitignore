@@ -9,3 +9,8 @@
  # Ignore checkpoint files
  *checkpoint*
  **/*checkpoint*
+/.ipynb_checkpoints/
+/css/.ipynb_checkpoints/
+/js/.ipynb_checkpoints/
+
+
