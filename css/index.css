@@ -162,7 +162,6 @@ a:hover {
     background: linear-gradient(to left, #3f2401, #bd6e07);
 }
 
-
 .little {
     padding: 0.15rem 0.5rem;
     position: relative;
@@ -194,6 +193,12 @@ a:hover {
 
 #footer-text {
     font-family: Times New Roman, sans-serif;
+}
+
+.sounds {
+    padding: 0.25rem;
+    position: relative;
+    margin: 1rem;
 }
 
 .sounds {
